@@ -6,10 +6,27 @@ url: "https://osccal23.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Permalink structure for posts
+permalink: /:categories/:year/:month/:day/:title/
+
+# Post settings
+excerpt_separator: <!--more-->
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
 
 # Exclude from processing
 exclude:
   - README.md
   - .gitignore
+  - Gemfile
+  - Gemfile.lock
