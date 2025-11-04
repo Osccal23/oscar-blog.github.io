@@ -260,6 +260,24 @@ nav .container {
     font-family: 'Courier New', monospace;
 }
 
+/* Utility Classes */
+.section-spacing {
+    margin-top: 3rem;
+}
+
+.back-link {
+    margin-top: 2rem;
+}
+
+.back-link a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.back-link a:hover {
+    text-decoration: underline;
+}
+
 /* Footer */
 footer {
     background-color: #2c3e50;
