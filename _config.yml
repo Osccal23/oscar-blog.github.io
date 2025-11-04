@@ -1,0 +1,15 @@
+# Site settings
+title: Oscar's Blog
+description: "Exploring ideas, sharing projects, and documenting my journey in technology and innovation."
+baseurl: "/oscar-blog.github.io" # the subpath of your site, e.g. /blog
+url: "https://osccal23.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .gitignore
