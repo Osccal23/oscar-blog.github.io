@@ -27,7 +27,7 @@ The main page of this blog describes who I am, what I believe in, and what drive
 
 ## Visit the Blog
 
-This blog is hosted on GitHub Pages and can be accessed at: [oscar-blog.github.io](https://osccal23.github.io/oscar-blog.github.io/)
+This blog is hosted on GitHub Pages and can be accessed at: [https://osccal23.github.io/oscar-blog.github.io/](https://osccal23.github.io/oscar-blog.github.io/)
 
 ## Get in Touch
 
